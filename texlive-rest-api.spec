@@ -1,6 +1,6 @@
 Name:		texlive-rest-api
 Version:	57068
-Release:	1
+Release:	2
 Summary:	Describing a rest api
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rest-api
