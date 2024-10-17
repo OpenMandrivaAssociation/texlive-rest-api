@@ -3,7 +3,7 @@ Version:	57068
 Release:	2
 Summary:	Describing a rest api
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rest-api
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/rest-api
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rest-api.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rest-api.doc.r%{version}.tar.xz
